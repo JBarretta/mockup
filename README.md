@@ -2,7 +2,7 @@
 
 Goal: Intuitively direct users towards publications through all likely paths
 
-[Financial Controls](https://https://jbarretta.github.io/mockup/fc.md) here.
+[Financial Controls](https://jbarretta.github.io/mockup/fc.md) here.
 
 #You can use the [editor on GitHub](https://github.com/JBarretta/mockup/edit/master/README.md) to maintain and preview the #content for your website in Markdown files.
 
