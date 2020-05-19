@@ -2,7 +2,9 @@
 
 Goal: Intuitively direct users towards publications through all likely paths
 
-[Financial Controls](https://jbarretta.github.io/mockup/fc.html) here.
+Ways To Browse:
+
+[Topic](https://jbarretta.github.io/mockup/topic.html)
 
 <!---
 
