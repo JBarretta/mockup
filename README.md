@@ -1,6 +1,6 @@
 ## Release Libraries
 
-[Goal]: Intuitively direct users towards publications through all likely paths
+Goal: Intuitively direct users towards publications through all likely paths
 
 #You can use the [editor on GitHub](https://github.com/JBarretta/mockup/edit/master/README.md) to maintain and preview the #content for your website in Markdown files.
 
