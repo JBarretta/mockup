@@ -1,12 +1,10 @@
-## Release Libraries
-
-[Edition 1a Release 1 (1.0.0) Library](https://jbarretta.github.io/mockup)
+## Release Libraries Edition 1a (v1.0.0)
 
 Goal: Intuitively direct users towards publications through all likely paths
 
-<!---
-
 [Financial Controls](https://jbarretta.github.io/mockup/fc.html) here.
+
+<!---
 
 #You can use the [editor on GitHub](https://github.com/JBarretta/mockup/edit/master/README.md) to maintain and preview the #content for your website in Markdown files.
 
