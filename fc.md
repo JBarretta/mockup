@@ -1,3 +1,5 @@
 **Financial Controls**
 
+*Financial Controls* play an important role in ensuring the accuracy of reporting, eliminating fraud and protecting the organization's physical and intangible resources. These internal control procedures reduce process variation, leading to more predictable outcomes.
+
 [Gateway Reports](https://app.periscopedata.com/app/evolve-vacation-rental-network:evolve-vacation-rental/604794/Financial-Controls:-Gateway-Reports)
