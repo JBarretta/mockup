@@ -6,7 +6,7 @@ Ways To Browse:
 
 [Topic](https://jbarretta.github.io/mockup/topic.html)
 
-[Function](https://jbarretta.github.io/mockup/function.html)
+[Business Function](https://jbarretta.github.io/mockup/function.html)
 
 <!---
 
