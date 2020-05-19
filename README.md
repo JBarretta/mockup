@@ -1,4 +1,4 @@
-## Release Libraries Edition 1a (v1.0.0)
+## Release Libraries (v0.1)
 
 Goal: Intuitively direct users towards publications through all likely paths
 
