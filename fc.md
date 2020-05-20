@@ -40,8 +40,8 @@ Key Utilized Data
    * Bookings
      * Key fields: id, external id, booking close date, external guest pay, check-in date, cancellation date, check-out   date, booking status
   * Etc
-  
- #### Support & Escalation
+ 
+#### Support & Escalation
  [Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
 
 #### Special Considerations
