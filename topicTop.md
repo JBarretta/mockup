@@ -1,10 +1,12 @@
 ## Browse By Topic
->Direct users to articles by subject topic
+>I'm interested in finding out information about...
 
-[Owner](https://jbarretta.github.io/mockup/topicOwner.html)
+[Owners](https://jbarretta.github.io/mockup/topicOwner.html)
 
-[Guest](https://jbarretta.github.io/mockup/topicGuest.html)
+[Guests](https://jbarretta.github.io/mockup/topicGuest.html)
 
-[Internal](https://jbarretta.github.io/mockup/topicInternal.html)
+[Partners](https://jbarretta.github.io/mockup/topicPartners.html)
+
+[Evolvers](https://jbarretta.github.io/mockup/topicInternal.html)
 
 Etc.
