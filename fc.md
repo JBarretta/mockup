@@ -16,7 +16,7 @@ Illustrative Only!
 #### Stakeholders
 
 Name | Title | Dept | Contact
--------------------
+------------ | ------------- | ------------- | -------------
 Caleb | SVP | IT | email@email.com
 Ashley | Director | Analytics | email@moreemail.com
 
