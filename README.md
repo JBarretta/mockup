@@ -1,6 +1,6 @@
 ## Catchy System Acronym Name Here
 
->Goal: Intuitively direct users towards accurate, timely publications through all likely paths
+Goal: Intuitively direct users towards accurate, timely publications through all likely paths
 
 
 [Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
