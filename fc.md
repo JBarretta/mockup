@@ -1,4 +1,5 @@
 ## Financial Controls
+>Manual stewardship initially. Automated grooming accomplished in later phases of project - IF we proceed!
 
 ```markdown
 Business Information
