@@ -2,7 +2,7 @@
 
 Goal: Intuitively direct users towards publications through all likely paths
 
-[Announcements & Issues](https://jbarretta.github.io/mockup/announcements.html)
+[Headlines](https://jbarretta.github.io/mockup/headlines.html)
 
 Ways To Browse:
 
