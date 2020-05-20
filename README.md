@@ -14,6 +14,7 @@ Goal: Intuitively direct users towards accurate, timely publications through all
 
 ## Release Libraries (v0.1)
 
+```
 Ways To Browse:
 
 [Topic](https://jbarretta.github.io/mockup/topic.html)
@@ -22,6 +23,7 @@ Ways To Browse:
 
 [Process](https://jbarretta.github.io/mockup/process.html)
 
+```
 
 
 #You can use the [editor on GitHub](https://github.com/JBarretta/mockup/edit/master/README.md) to maintain and preview the #content for your website in Markdown files.
