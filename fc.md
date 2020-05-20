@@ -6,7 +6,7 @@
 
 #### Value Chain
 
-[FV VC](https://jbarretta.github.com/mockup/img/Screen Shot 2020-05-20 at 12.43.40 PM.png)
+[FV VC](https://jbarretta.github.com/mockup/Screen Shot 2020-05-20 at 12.43.40 PM.png)
 
 [Gateway Reports](https://app.periscopedata.com/app/evolve-vacation-rental-network:evolve-vacation-rental/604794/Financial-Controls:-Gateway-Reports)
 
