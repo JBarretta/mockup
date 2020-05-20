@@ -1,4 +1,4 @@
-## Data Services Hub Mockup
+## Hub Mockup
 
 Goal: Intuitively direct users towards accurate, timely publications through all likely paths
 
