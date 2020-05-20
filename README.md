@@ -3,6 +3,7 @@
 Goal: Intuitively direct users towards publications through all likely paths
 
 [Headlines](https://jbarretta.github.io/mockup/headlines.html)
+> Releases and Milestones, Announcements, Sev 1 Issues, etc.
 
 Ways To Browse:
 
