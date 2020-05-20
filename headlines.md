@@ -1,6 +1,7 @@
 # Headlines & Announcements
+>Important updates and announcements will be provided here
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Hub Mockup/Strawman
+- [ ] Next Steps?
+- [x] UAT begins for [Owner KPI Dashboard](https://app.periscopedata.com/app/evolve-vacation-rental-network:evolve-vacation-rental/446236/Owner-Company-KPI) 5/15 - 5/22!
+- [ ] UAT Feedback
