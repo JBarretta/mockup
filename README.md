@@ -9,7 +9,7 @@ Goal: Intuitively direct users towards accurate, timely publications through all
 >*Releases, Milestones, UAT Phases, etc*
 
 [Issues](https://jbarretta.github.io/mockup/issues.html)
->*Ongoing Sev 1 Outages, Pipeline, and Data Quality issues*
+>*Known Sev 1 Issues, EDW Pipeline Anomalies, Backlog, etc*
 
 ## Release Libraries (v0.1)
 ```markdown
@@ -19,5 +19,5 @@ Ways To Browse:
 
 [Business Function](https://jbarretta.github.io/mockup/functionTop.html)
 
-[Process](https://jbarretta.github.io/mockup/processTop.html
+[Process](https://jbarretta.github.io/mockup/processTop.html)
 
