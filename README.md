@@ -2,6 +2,8 @@
 
 Goal: Intuitively direct users towards publications through all likely paths
 
+[Announcements & Issues](https://jbarretta.github.io/mockup/announcements.html)
+
 Ways To Browse:
 
 [Topic](https://jbarretta.github.io/mockup/topic.html)
