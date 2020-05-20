@@ -2,13 +2,13 @@
 
 Goal: Intuitively direct users towards accurate, timely publications through all likely paths
 
-[Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
+**[Submit a Request]**(https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
 >*Requests that impact calculations or logic on the events reports must be approved through the [Change Management](https://docs.google.com/spreadsheets/d/1Q7N4QXZPvvsqm7uBsielHVjLSAZQajVlcBHhnMpvumM/edit#gid=0) process.*
 
-[Headlines](https://jbarretta.github.io/mockup/headlines.html)
+**[Headlines]**(https://jbarretta.github.io/mockup/headlines.html)
 >*Releases, Milestones, UAT Phases, etc*
 
-[Issues](https://jbarretta.github.io/mockup/issues.html)
+**[Issues]**(https://jbarretta.github.io/mockup/issues.html)
 >*Ongoing Sev 1 Outages, Pipeline, and Data Quality issues*
 
 ## Release Libraries (v0.1)
