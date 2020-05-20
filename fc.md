@@ -49,10 +49,11 @@ Key Utilized Data
  * Etc
 
 #### Lineage & Version Control
->Applies more to tangible objects/dashboards
 Version | Date | Description
 ------------ | ------------- | -------------
 0.1 | 2019-05-01 | Version 0.1 Released
+
+>Applies more to tangible objects/dashboards
 
 #### Project Roadmaps
 * Feature Development
