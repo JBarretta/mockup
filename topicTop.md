@@ -1,11 +1,11 @@
 ## Browse By Topic
 >I'm interested in finding out information about...
 
-[Owners](https://jbarretta.github.io/mockup/topicOwner.html)
+[Homeowners]()
 
-[Guests](https://jbarretta.github.io/mockup/topicGuest.html)
+[Bookings]()
 
-[Partners](https://jbarretta.github.io/mockup/topicPartners.html)
+[Partners]()
 
 [Evolvers](https://jbarretta.github.io/mockup/topicInternal.html)
 
