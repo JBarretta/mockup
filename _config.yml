@@ -1,6 +1,5 @@
-theme: jekyll-theme-modernist
-
-title: Data Services Hub
-
 github:
   is_project_page: false
+  
+theme: jekyll-theme-modernist
+title: Data Services Hub
