@@ -3,7 +3,7 @@
 Goal: Intuitively direct users towards publications through all likely paths
 
 > [Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form)
-
+>
 >Requests that impact calculations or logic on the events reports must be approved through the [Change Management] process.
 
 
