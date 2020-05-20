@@ -2,12 +2,11 @@
 
 Goal: Intuitively direct users towards publications through all likely paths
 
-> [Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
->Requests that impact calculations or logic on the events reports must be approved through the [Change Management] process.
+[Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
+>*Requests that impact calculations or logic on the events reports must be approved through the [Change Management] process.*
 
-
-> [Headlines](https://jbarretta.github.io/mockup/headlines.html)
-*Releases and Milestones, Announcements, Sev 1 Issues, etc.*
+Headlines](https://jbarretta.github.io/mockup/headlines.html)
+>*Releases and Milestones, Announcements, Sev 1 Issues, etc.*
 
 Ways To Browse:
 
