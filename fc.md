@@ -14,7 +14,7 @@ Business Information
 ![](https://jbarretta.github.io/mockup/Screen Shot 2020-05-20 at 12.43.40 PM.png)
 Illustrative Only!
 
-#### Stakeholders
+#### Functional Stakeholders
 
 Name | Title | Dept | Contact
 ------------ | ------------- | ------------- | -------------
