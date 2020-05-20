@@ -15,11 +15,11 @@ Goal: Intuitively direct users towards accurate, timely publications through all
 ```markdown
 Ways To Browse:
 ```
-[Topic](https://jbarretta.github.io/mockup/topic.html)
+[Topic](https://jbarretta.github.io/mockup/_topicTop.html)
 
-[Business Function](https://jbarretta.github.io/mockup/function.html)
+[Business Function](https://jbarretta.github.io/mockup/_functionTop.html)
 
-[Process](https://jbarretta.github.io/mockup/process.html)
+[Process](https://jbarretta.github.io/mockup/_processTop.html)
 
 <!---
 #You can use the [editor on GitHub](https://github.com/JBarretta/mockup/edit/master/README.md) to maintain and preview the #content for your website in Markdown files.
