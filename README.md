@@ -1,4 +1,4 @@
-## Hub Mockup
+## Hub Mockup - Catchy Name/Acronym Here
 
 Goal: Intuitively direct users towards accurate, timely publications through all likely paths
 
