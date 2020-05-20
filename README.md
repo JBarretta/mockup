@@ -1,10 +1,6 @@
-```markdown
-**Catchy System Acronym Name Here**
+## Catchy System Acronym/Name Here
 
 Goal: Intuitively direct users towards accurate, timely publications through all likely paths
-```
-
-
 
 [Submit a Request](https://www.surveygizmo.com/s3/4826616/Analytics-Request-Form) 
 >*Requests that impact calculations or logic on the events reports must be approved through the [Change Management](https://docs.google.com/spreadsheets/d/1Q7N4QXZPvvsqm7uBsielHVjLSAZQajVlcBHhnMpvumM/edit#gid=0) process.*
@@ -15,12 +11,10 @@ Goal: Intuitively direct users towards accurate, timely publications through all
 [Issues](https://jbarretta.github.io/mockup/issues.html)
 >*Ongoing Sev 1 Outages, Pipeline, and Data Quality issues*
 
-```markdown
 ## Release Libraries (v0.1)
-```
-
+```markdown
 Ways To Browse:
-
+```
 [Topic](https://jbarretta.github.io/mockup/topic.html)
 
 [Business Function](https://jbarretta.github.io/mockup/function.html)
