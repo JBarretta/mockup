@@ -10,7 +10,9 @@ __This will also be bold__
 
 _You **can** combine them_
 
-* Item 1
+* Configure Jira workflow events to potentially post
+  * Workflow/Milestone announcements
+  * UAT phases
 * Item 2
   * Item 2a
   * Item 2b
