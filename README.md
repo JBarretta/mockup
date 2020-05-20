@@ -1,5 +1,6 @@
+```
 ## Catchy System Acronym Name Here
-
+```
 Goal: Intuitively direct users towards accurate, timely publications through all likely paths
 
 
@@ -12,11 +13,11 @@ Goal: Intuitively direct users towards accurate, timely publications through all
 [Issues](https://jbarretta.github.io/mockup/issues.html)
 >*Ongoing Sev 1 Outages, Pipeline, and Data Quality issues*
 
+```
 ## Release Libraries (v0.1)
+```
 
-```
 Ways To Browse:
-```
 
 [Topic](https://jbarretta.github.io/mockup/topic.html)
 
